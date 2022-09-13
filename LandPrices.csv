@@ -1,0 +1,814 @@
+acrePrice,region,improvements,acres,tillable,financing,crpPct,productivity,CRP
+2898,West Central,6,160,84,title_transfer,0,49,No
+3629,West Central,0,50,88,title_transfer,0,55,No
+2621,West Central,0,160,98,seller_financed,0,58,No
+7500,South Central,0,80,88,title_transfer,0,62,No
+4868,South Central,0,40,92,seller_financed,0,75,No
+3481,South Central,0,37,54,title_transfer,0,85,No
+5000,South Central,0,40,88,title_transfer,0,74,No
+3688,South Central,1,80,86,title_transfer,0,84,No
+4520,South Central,0,69,88,seller_financed,0,79,No
+5260,South Central,0,39,92,title_transfer,0,68,No
+3372,South Central,0,40,100,title_transfer,0,70,No
+6065,South Central,23,38,79,seller_financed,0,79,No
+5187,South Central,0,178,96,title_transfer,0,74,No
+3986,South Central,0,200,64,title_transfer,0,65,No
+4087,South Central,0,38,97,title_transfer,0,57,No
+5261,South Central,0,78,96,title_transfer,0,78,No
+6200,South Central,0,30,93,title_transfer,0,74,No
+4000,South Central,0,15,93,title_transfer,0,76,No
+5589,South Central,0,63,94,title_transfer,0,73,No
+4750,South Central,0,40,82,title_transfer,0,76,No
+4389,South Central,0,108,100,title_transfer,0,40,No
+4999,South Central,0,115,97,title_transfer,0,72,No
+5717,South Central,0,53,75,title_transfer,100,60,Yes
+4348,South Central,0,23,87,title_transfer,0,40,No
+5660,South Central,11,116,93,title_transfer,0,40,No
+4737,South Central,0,76,99,title_transfer,0,66,No
+3571,South Central,1,157,77,title_transfer,0,72,No
+5029,South Central,0,115,98,title_transfer,0,76,No
+4512,South Central,0,57,86,title_transfer,0,71,No
+6241,South Central,0,80,99,title_transfer,0,63,No
+3757,South Central,30,49,76,title_transfer,0,61,No
+5768,South Central,0,80,91,title_transfer,0,62,No
+5745,South Central,0,40,98,title_transfer,0,82,No
+5039,South Central,0,40,90,title_transfer,0,81,No
+5092,South Central,0,139,96,title_transfer,0,78,No
+4830,South Central,0,48,96,title_transfer,0,77,No
+5481,South Central,13,160,91,title_transfer,0,78,No
+6339,South Central,0,7,100,title_transfer,0,69,No
+4630,South Central,0,40,95,title_transfer,0,73,No
+2335,South Central,0,80,78,title_transfer,0,50,No
+5050,South Central,0,80,98,title_transfer,0,84,No
+5200,South Central,0,70,99,title_transfer,0,69,No
+5000,South Central,0,20,100,title_transfer,0,78,No
+4917,South Central,0,144,92,title_transfer,0,72,No
+5081,South Central,0,89,99,title_transfer,0,85,No
+3545,South Central,0,154,95,title_transfer,0,59,No
+5176,South Central,0,73,95,title_transfer,0,80,No
+4929,South Central,0,40,92,title_transfer,0,88,No
+4929,South Central,0,40,98,title_transfer,0,88,No
+4750,South Central,0,80,94,title_transfer,0,81,No
+3466,West Central,0,40,100,title_transfer,0,65,No
+3979,West Central,0,101,94,title_transfer,0,62,No
+4033,West Central,0,52,94,title_transfer,0,70,No
+4605,West Central,0,310,97,seller_financed,0,68,No
+4949,West Central,0,150,93,title_transfer,0,64,No
+2401,West Central,0,55,73,title_transfer,11,57,Yes
+5142,West Central,8,160,91,title_transfer,0,67,No
+5041,West Central,0,157,97,title_transfer,0,67,No
+4901,West Central,0,72,96,title_transfer,0,62,No
+4280,West Central,0,114,96,title_transfer,4,63,Yes
+6292,West Central,22,160,94,title_transfer,0,66,No
+4034,West Central,1,80,91,seller_financed,0,69,No
+4073,West Central,0,75,99,seller_financed,0,69,No
+4206,West Central,0,40,92,seller_financed,0,73,No
+6198,West Central,0,142,96,title_transfer,0,59,No
+3932,West Central,0,80,99,title_transfer,0,58,No
+3932,West Central,0,160,97,title_transfer,0,55,No
+5000,South West,0,160,98,title_transfer,0,78,No
+4737,South West,0,71,97,title_transfer,11,78,Yes
+2906,South West,0,160,80,title_transfer,0,63,No
+3575,South West,0,160,90,title_transfer,0,62,No
+4000,South West,0,74,88,title_transfer,0,65,No
+1538,South West,0,400,63,title_transfer,19,49,Yes
+2150,South West,0,320,93,title_transfer,93,40,Yes
+4318,South West,0,22,73,title_transfer,0,81,No
+5900,South West,4,80,96,title_transfer,0,73,No
+4651,South West,0,109,97,title_transfer,0,79,No
+4600,South West,0,29,86,title_transfer,0,62,No
+2333,South West,0,60,63,title_transfer,0,61,No
+5000,South West,0,80,84,title_transfer,0,74,No
+4700,South West,0,80,96,title_transfer,0,79,No
+5509,South West,0,126,96,title_transfer,0,78,No
+4878,South West,0,160,93,title_transfer,0,75,No
+3451,South West,0,79,92,title_transfer,0,69,No
+5217,South West,0,160,95,title_transfer,0,66,No
+3811,South West,0,80,90,title_transfer,0,49,No
+5018,South West,0,80,95,title_transfer,0,79,No
+4074,South West,0,92,92,title_transfer,0,52,No
+5945,South West,1,160,89,title_transfer,0,72,No
+5977,South West,0,154,90,title_transfer,0,82,No
+4826,South East,0,149,98,title_transfer,0,84,No
+4050,South East,0,75,85,title_transfer,0,87,No
+3685,South East,0,126,88,title_transfer,0,82,No
+2500,South East,0,63,54,title_transfer,0,82,No
+4994,South East,0,82,91,title_transfer,0,82,No
+4254,South East,0,153,98,seller_financed,3,81,Yes
+4468,South East,0,94,81,title_transfer,0,73,No
+2615,South East,0,65,62,title_transfer,0,59,No
+4307,South East,0,143,93,title_transfer,0,66,No
+3429,South East,0,35,80,title_transfer,0,78,No
+3477,South East,0,151,93,seller_financed,0,83,No
+6371,South East,0,75,96,title_transfer,0,77,No
+4738,South East,0,99,89,title_transfer,0,79,No
+5206,South East,0,155,94,title_transfer,0,82,No
+5249,South East,0,233,97,title_transfer,0,78,No
+6419,South East,0,110,98,seller_financed,0,73,No
+5582,South East,0,74,99,seller_financed,0,79,No
+4668,South East,0,158,97,title_transfer,0,75,No
+6104,South East,0,160,98,title_transfer,0,81,No
+875,West Central,0,40,95,title_transfer,0,30,No
+875,West Central,0,20,100,title_transfer,0,30,No
+1500,West Central,2,140,76,title_transfer,0,57,No
+2071,West Central,0,136,90,title_transfer,0,58,No
+2462,West Central,0,66,83,title_transfer,0,61,No
+2222,West Central,0,144,96,title_transfer,96,49,Yes
+3100,West Central,0,871,92,title_transfer,0,45,No
+2500,West Central,0,20,95,title_transfer,0,59,No
+2050,West Central,0,121,84,title_transfer,0,58,No
+1908,West Central,0,131,85,seller_financed,0,53,No
+2569,West Central,0,84,94,title_transfer,0,68,No
+2406,West Central,0,80,65,title_transfer,5,61,Yes
+3140,West Central,0,129,91,title_transfer,0,53,No
+1900,West Central,0,20,90,title_transfer,0,34,No
+2332,West Central,0,35,89,seller_financed,0,55,No
+3896,West Central,8,101,86,title_transfer,0,45,No
+2500,West Central,0,160,83,seller_financed,0,42,No
+2493,West Central,0,120,76,seller_financed,0,42,No
+2000,West Central,0,70,69,title_transfer,0,48,No
+1800,West Central,0,15,67,title_transfer,0,42,No
+2658,West Central,0,79,80,title_transfer,0,51,No
+5215,South Central,0,80,99,title_transfer,0,80,No
+4825,South Central,0,40,92,title_transfer,0,77,No
+4250,South Central,0,82,96,title_transfer,0,79,No
+4000,South Central,0,115,79,title_transfer,0,77,No
+5200,South Central,0,40,98,title_transfer,0,61,No
+4575,South Central,0,40,95,title_transfer,0,74,No
+4250,South Central,0,40,98,title_transfer,0,70,No
+4250,South Central,1,80,84,title_transfer,0,57,No
+4881,South Central,0,84,95,title_transfer,0,72,No
+3479,South Central,0,40,60,title_transfer,0,80,No
+4400,South Central,0,75,97,title_transfer,0,80,No
+5067,South Central,0,80,99,title_transfer,0,93,No
+4633,South Central,0,80,99,title_transfer,0,93,No
+5600,South Central,0,150,96,title_transfer,0,75,No
+4231,South Central,0,57,96,title_transfer,0,75,No
+4230,South Central,0,236,82,title_transfer,0,76,No
+3923,South Central,0,204,92,title_transfer,0,79,No
+3667,South Central,0,6,100,title_transfer,0,90,No
+6033,South Central,0,88,97,title_transfer,0,77,No
+5068,South Central,0,46,98,title_transfer,0,76,No
+3566,South Central,0,90,93,title_transfer,0,77,No
+4487,South Central,0,153,99,seller_financed,0,75,No
+5234,South Central,0,220,98,title_transfer,0,83,No
+4994,South Central,0,80,96,title_transfer,0,76,No
+4898,South Central,0,111,96,title_transfer,0,76,No
+4942,South Central,0,40,95,title_transfer,0,78,No
+4617,South Central,0,240,92,title_transfer,0,79,No
+4451,South Central,0,40,92,title_transfer,0,65,No
+5470,South Central,0,24,92,title_transfer,0,80,No
+4458,South Central,0,33,82,title_transfer,0,80,No
+5394,South Central,0,80,95,title_transfer,0,69,No
+4350,South Central,0,40,82,title_transfer,0,81,No
+6894,South Central,0,79,97,title_transfer,0,87,No
+4702,South Central,0,37,89,title_transfer,0,81,No
+4972,South Central,0,80,90,seller_financed,0,91,No
+5011,South Central,0,78,100,seller_financed,0,91,No
+5147,South Central,0,146,96,title_transfer,0,84,No
+5800,South Central,0,30,90,title_transfer,0,78,No
+4426,South Central,0,154,94,title_transfer,0,72,No
+6094,South Central,0,120,96,title_transfer,0,70,No
+5276,South Central,0,160,99,seller_financed,0,78,No
+3369,South Central,0,77,94,title_transfer,0,81,No
+4617,South Central,0,84,89,title_transfer,0,82,No
+3000,South Central,0,70,89,title_transfer,0,75,No
+5000,South Central,31,35,94,title_transfer,0,91,No
+4200,South Central,0,80,91,title_transfer,0,84,No
+4088,South Central,0,82,95,title_transfer,0,81,No
+3243,South Central,0,155,74,seller_financed,21,87,Yes
+4912,South Central,0,177,99,title_transfer,2,85,Yes
+4553,South Central,0,97,95,title_transfer,0,92,No
+4687,South Central,0,53,100,title_transfer,0,92,No
+4688,South Central,0,116,93,title_transfer,0,86,No
+4500,South Central,0,37,97,title_transfer,0,84,No
+5197,South Central,0,155,98,title_transfer,0,87,No
+4872,South Central,0,145,97,title_transfer,0,71,No
+4100,South Central,0,40,95,title_transfer,0,75,No
+4100,South Central,0,40,98,title_transfer,0,77,No
+4100,South Central,0,40,100,title_transfer,0,79,No
+3902,South Central,0,78,99,title_transfer,0,69,No
+4881,South Central,0,198,98,title_transfer,0,87,No
+4579,South Central,0,148,97,title_transfer,0,79,No
+5162,South Central,0,80,91,title_transfer,0,85,No
+4579,South Central,0,76,92,title_transfer,0,81,No
+3756,South Central,0,27,93,title_transfer,0,85,No
+2251,South Central,0,56,41,title_transfer,30,65,Yes
+4848,South Central,0,115,91,title_transfer,0,85,No
+5084,South Central,0,68,87,title_transfer,0,91,No
+4608,South Central,0,40,95,title_transfer,0,86,No
+5633,South Central,0,78,100,title_transfer,0,83,No
+5600,South Central,0,114,95,title_transfer,0,80,No
+5863,South Central,24,38,87,title_transfer,24,78,Yes
+5880,South Central,3,66,95,title_transfer,0,86,No
+5223,South Central,0,80,96,title_transfer,0,89,No
+5447,South Central,0,56,96,title_transfer,0,84,No
+3605,South Central,1,80,75,title_transfer,0,70,No
+5374,South Central,0,617,96,title_transfer,0,88,No
+4833,South Central,0,40,95,seller_financed,0,83,No
+4030,South Central,0,70,99,title_transfer,0,78,No
+4000,South East,0,53,68,title_transfer,0,77,No
+3375,South East,0,120,88,title_transfer,0,77,No
+3400,South East,0,80,84,title_transfer,0,80,No
+5303,South East,29,99,90,title_transfer,0,72,No
+3820,South East,0,77,90,title_transfer,0,80,No
+3800,South East,0,30,90,title_transfer,0,87,No
+5933,South East,16,80,92,seller_financed,0,81,No
+3811,South East,0,93,84,title_transfer,0,83,No
+2533,South East,0,15,80,title_transfer,0,66,No
+3657,South East,0,192,69,title_transfer,0,72,No
+3949,South East,0,136,93,title_transfer,0,80,No
+11524,South East,42,40,80,title_transfer,0,81,No
+4088,South East,0,153,95,title_transfer,0,70,No
+3363,South East,0,113,73,seller_financed,0,74,No
+6150,South East,0,80,90,title_transfer,0,89,No
+4006,South East,0,28,100,seller_financed,0,73,No
+4921,South East,0,127,96,title_transfer,0,84,No
+5821,South East,0,39,92,title_transfer,0,82,No
+5325,South East,9,169,78,title_transfer,0,82,No
+4527,South East,0,93,72,title_transfer,0,84,No
+2903,South East,0,31,74,title_transfer,0,70,No
+5083,South East,0,116,87,title_transfer,0,70,No
+3312,South East,0,67,60,title_transfer,0,80,No
+5304,South East,10,200,94,seller_financed,0,76,No
+5675,South East,0,71,93,title_transfer,0,89,No
+6453,South East,20,160,89,title_transfer,0,81,No
+5537,South East,0,17,100,title_transfer,0,69,No
+6304,South East,21,160,84,title_transfer,3,86,Yes
+4462,South East,0,196,100,title_transfer,7,85,Yes
+4451,South East,0,40,98,title_transfer,0,85,No
+3185,South East,0,109,76,title_transfer,0,63,No
+6538,South East,0,154,96,title_transfer,0,88,No
+4132,South East,0,79,89,title_transfer,0,75,No
+3285,South East,0,50,92,title_transfer,0,69,No
+5569,South East,0,133,95,title_transfer,0,87,No
+5656,South East,0,39,92,title_transfer,0,82,No
+4489,South East,0,40,90,title_transfer,0,69,No
+3417,South East,20,78,78,title_transfer,0,75,No
+2641,West Central,0,39,92,title_transfer,0,61,No
+2967,West Central,0,337,95,title_transfer,2,64,Yes
+3417,West Central,1,160,96,title_transfer,0,58,No
+3262,West Central,0,72,100,title_transfer,0,65,No
+3012,West Central,0,80,100,title_transfer,0,62,No
+2840,West Central,0,200,97,title_transfer,0,65,No
+3621,West Central,0,165,85,title_transfer,13,66,Yes
+2562,West Central,0,160,84,title_transfer,0,54,No
+2897,West Central,0,68,96,seller_financed,0,62,No
+2283,West Central,4,265,75,title_transfer,3,52,Yes
+2543,West Central,0,70,94,title_transfer,11,64,Yes
+3830,South East,0,47,89,title_transfer,57,73,Yes
+3415,South West,0,59,98,title_transfer,0,62,No
+3750,South West,8,160,90,seller_financed,15,69,Yes
+3514,South West,0,80,85,title_transfer,0,68,No
+4450,South West,0,80,98,title_transfer,0,70,No
+3500,South West,2,40,96,title_transfer,0,75,No
+4603,South West,0,63,98,title_transfer,0,82,No
+4575,South West,0,160,97,title_transfer,0,76,No
+4635,South West,0,154,97,title_transfer,0,79,No
+4500,South West,0,150,95,title_transfer,0,86,No
+5900,South West,0,160,96,title_transfer,0,78,No
+5361,South West,0,153,97,title_transfer,0,81,No
+4792,South West,10,146,94,title_transfer,0,71,No
+5111,South West,0,313,95,title_transfer,0,77,No
+5860,South West,0,70,97,title_transfer,0,79,No
+6601,South West,0,153,93,title_transfer,0,81,No
+3562,South West,0,28,100,title_transfer,0,68,No
+2691,South West,0,49,71,title_transfer,0,69,No
+5067,South West,0,73,96,title_transfer,0,77,No
+4842,South West,0,161,89,title_transfer,0,73,No
+5162,South West,0,80,91,title_transfer,0,68,No
+5022,Central,31,40,80,seller_financed,0,77,No
+3409,Central,41,57,63,title_transfer,70,36,Yes
+2941,Central,0,75,100,title_transfer,100,36,Yes
+2257,Central,0,197,86,title_transfer,100,36,Yes
+6327,Central,0,200,96,title_transfer,0,79,No
+5943,Central,0,55,95,title_transfer,0,75,No
+3905,Central,0,133,93,title_transfer,0,72,No
+3697,Central,0,156,89,title_transfer,0,64,No
+2250,Central,0,20,80,title_transfer,0,62,No
+5673,Central,0,60,100,title_transfer,0,72,No
+5684,Central,0,158,94,title_transfer,0,71,No
+5236,Central,0,49,96,title_transfer,0,74,No
+4769,Central,0,150,91,title_transfer,0,77,No
+4928,Central,0,94,91,title_transfer,0,69,No
+5676,Central,0,74,97,title_transfer,0,67,No
+4452,Central,0,31,94,title_transfer,0,72,No
+4057,Central,0,41,90,title_transfer,0,74,No
+3918,West Central,0,80,96,title_transfer,0,60,No
+3924,West Central,0,156,97,title_transfer,0,56,No
+2516,West Central,0,77,81,title_transfer,0,57,No
+3216,West Central,0,110,96,title_transfer,0,60,No
+3250,West Central,0,4,75,title_transfer,0,70,No
+3587,West Central,0,77,88,title_transfer,0,57,No
+3008,West Central,6,157,91,title_transfer,0,57,No
+3071,West Central,0,320,95,title_transfer,0,61,No
+3030,West Central,0,135,96,title_transfer,0,63,No
+3177,West Central,0,150,95,title_transfer,0,58,No
+2503,West Central,0,171,84,title_transfer,0,56,No
+3646,West Central,0,60,98,title_transfer,0,58,No
+3646,West Central,0,60,100,title_transfer,0,57,No
+3550,West Central,0,144,90,title_transfer,0,61,No
+4109,West Central,0,160,95,title_transfer,2,57,Yes
+4234,West Central,0,120,98,title_transfer,0,57,No
+4015,West Central,0,163,98,title_transfer,0,50,No
+3329,West Central,0,129,99,title_transfer,0,55,No
+2480,West Central,0,187,90,title_transfer,0,52,No
+2586,West Central,0,88,89,title_transfer,32,52,Yes
+2727,West Central,0,49,88,title_transfer,0,51,No
+3428,West Central,0,270,98,title_transfer,0,60,No
+3176,West Central,0,160,96,title_transfer,0,59,No
+2841,West Central,0,123,85,title_transfer,0,47,No
+2573,South West,0,171,89,title_transfer,0,55,No
+3000,South West,0,80,84,seller_financed,21,52,Yes
+2344,South West,4,160,83,title_transfer,0,58,No
+3753,South West,0,552,98,title_transfer,0,63,No
+1953,South West,0,150,78,title_transfer,0,63,No
+3408,South West,0,68,100,title_transfer,0,53,No
+3346,South West,0,152,93,title_transfer,0,55,No
+3530,South West,0,228,93,title_transfer,0,60,No
+1431,South West,0,160,52,title_transfer,28,47,Yes
+3825,South West,0,80,95,title_transfer,0,62,No
+3825,South West,0,80,95,title_transfer,0,62,No
+2391,South West,0,115,91,title_transfer,0,58,No
+3659,South West,1,152,97,title_transfer,0,59,No
+2880,South West,0,240,92,title_transfer,2,56,Yes
+2880,South West,0,80,96,title_transfer,8,57,Yes
+2179,South West,0,39,100,title_transfer,100,52,Yes
+3013,South West,0,239,84,title_transfer,0,66,No
+1960,South West,0,222,79,title_transfer,0,59,No
+3244,South West,0,157,91,title_transfer,0,63,No
+2310,South West,0,160,65,title_transfer,0,54,No
+3427,South West,0,124,97,title_transfer,0,48,No
+2876,South West,0,159,86,title_transfer,0,60,No
+3297,South West,0,34,71,title_transfer,0,63,No
+2575,South West,0,157,62,title_transfer,0,65,No
+4128,South West,8,320,94,title_transfer,0,59,No
+3303,South West,0,160,82,title_transfer,0,58,No
+5188,South West,0,143,96,title_transfer,0,1,No
+4750,South West,0,40,98,title_transfer,0,65,No
+4200,South West,0,35,94,title_transfer,0,62,No
+2125,South West,0,51,98,title_transfer,0,40,No
+3025,South West,0,160,84,title_transfer,0,51,No
+2900,South West,0,160,75,title_transfer,0,54,No
+5050,South West,0,148,99,title_transfer,0,68,No
+2872,South West,0,151,97,title_transfer,0,58,No
+4268,South West,0,160,91,title_transfer,0,65,No
+4899,South West,7,160,78,title_transfer,0,72,No
+5595,South West,0,323,96,title_transfer,0,70,No
+5231,South West,0,352,97,title_transfer,0,70,No
+4909,South West,9,159,90,title_transfer,0,63,No
+5157,South West,0,64,95,seller_financed,0,69,No
+5564,South West,0,153,95,title_transfer,0,69,No
+5782,South West,6,222,92,title_transfer,0,73,No
+5297,South West,0,153,93,title_transfer,0,73,No
+5063,South West,0,74,93,title_transfer,0,74,No
+1743,Northwest,0,160,81,title_transfer,0,53,No
+1950,Northwest,0,160,92,title_transfer,0,48,No
+1225,Northwest,0,235,68,title_transfer,0,45,No
+1125,Northwest,0,40,72,title_transfer,0,32,No
+1494,Northwest,0,77,90,title_transfer,93,45,Yes
+1649,Northwest,36,77,52,title_transfer,55,49,Yes
+1000,Northwest,0,40,85,title_transfer,0,44,No
+3002,Northwest,0,231,94,title_transfer,0,45,No
+2455,Northwest,0,235,93,title_transfer,0,46,No
+1000,Northwest,0,80,98,title_transfer,0,46,No
+1300,Northwest,0,80,84,title_transfer,100,48,Yes
+1615,Northwest,0,144,59,title_transfer,18,51,Yes
+1500,Northwest,4,40,85,seller_financed,85,59,Yes
+1668,Northwest,0,124,81,title_transfer,0,53,No
+1427,Northwest,0,80,94,title_transfer,0,37,No
+1190,Northwest,0,240,85,title_transfer,89,44,Yes
+1147,Northwest,0,80,56,title_transfer,0,47,No
+1955,Northwest,1,881,56,title_transfer,0,46,No
+2548,Northwest,0,40,95,title_transfer,0,52,No
+1741,Northwest,42,120,66,title_transfer,0,48,No
+3109,Northwest,0,80,98,title_transfer,0,54,No
+1285,Northwest,14,253,91,seller_financed,0,45,No
+5000,South East,0,62,98,title_transfer,0,70,No
+4800,South East,8,160,91,title_transfer,0,84,No
+5050,South East,32,40,88,title_transfer,0,66,No
+5034,South East,0,149,89,title_transfer,0,77,No
+3463,South East,0,68,99,title_transfer,0,80,No
+3890,South East,0,76,97,title_transfer,0,82,No
+3378,South East,0,74,77,title_transfer,0,65,No
+5409,South East,0,93,97,title_transfer,0,80,No
+4258,South East,0,405,96,title_transfer,0,81,No
+2800,South East,0,30,93,title_transfer,0,70,No
+4750,South East,0,310,97,title_transfer,0,73,No
+5321,South East,0,78,96,title_transfer,0,75,No
+4380,South East,0,80,98,title_transfer,0,75,No
+4453,South East,0,75,99,title_transfer,0,78,No
+5000,South East,0,80,95,title_transfer,0,79,No
+5200,South East,0,115,98,title_transfer,0,79,No
+3670,South East,0,80,94,title_transfer,0,62,No
+4055,South East,0,99,98,title_transfer,0,57,No
+3518,South East,0,119,97,title_transfer,0,63,No
+3491,South East,0,100,94,title_transfer,22,63,Yes
+4674,South East,0,152,95,title_transfer,0,67,No
+4814,South East,0,22,100,title_transfer,0,65,No
+5106,South East,0,40,92,title_transfer,0,82,No
+5060,South East,0,154,96,seller_financed,0,80,No
+5444,South East,0,80,95,title_transfer,0,84,No
+4903,South East,0,83,95,title_transfer,0,76,No
+2378,South East,0,68,97,title_transfer,59,82,Yes
+6052,South East,21,80,90,title_transfer,0,67,No
+10400,South East,0,5,60,title_transfer,0,72,No
+4693,South East,0,72,97,title_transfer,0,79,No
+5196,South East,0,103,85,title_transfer,0,70,No
+5043,South East,0,70,96,title_transfer,0,69,No
+4283,South West,0,75,99,title_transfer,0,77,No
+4681,South West,18,80,79,title_transfer,0,70,No
+2775,South West,0,71,99,title_transfer,0,44,No
+2550,South West,0,160,94,title_transfer,0,56,No
+2849,South West,0,129,98,title_transfer,0,60,No
+5500,South West,0,160,97,title_transfer,0,79,No
+3506,South West,16,140,92,seller_financed,0,59,No
+4800,South West,0,80,94,title_transfer,0,74,No
+3000,South West,0,70,93,title_transfer,0,42,No
+3452,South West,0,273,92,title_transfer,0,60,No
+4697,South West,0,81,99,title_transfer,0,66,No
+3964,South West,,111,97,title_transfer,24,70,Yes
+4252,South West,0,98,97,title_transfer,0,67,No
+3700,South West,0,234,88,title_transfer,0,64,No
+3883,South West,0,82,95,title_transfer,0,73,No
+4350,South West,0,80,98,title_transfer,0,77,No
+4350,South West,0,80,98,title_transfer,0,76,No
+4750,South West,0,33,97,title_transfer,0,79,No
+5649,South West,0,23,100,title_transfer,0,77,No
+4563,South West,0,147,88,title_transfer,14,72,Yes
+5640,South West,0,147,96,title_transfer,4,76,Yes
+6038,South West,0,93,98,title_transfer,0,74,No
+4388,South West,0,80,99,title_transfer,0,69,No
+4319,South West,0,187,87,title_transfer,10,72,Yes
+5535,South West,0,80,99,title_transfer,0,79,No
+5086,South West,7,153,87,title_transfer,0,61,No
+1663,South West,0,126,82,seller_financed,79,34,Yes
+3049,South West,0,160,82,title_transfer,0,63,No
+4300,South West,0,20,100,title_transfer,0,77,No
+5205,South West,9,99,90,title_transfer,0,68,No
+2800,South West,0,5,100,title_transfer,0,75,No
+6350,South West,0,160,98,title_transfer,0,82,No
+4254,South West,0,81,90,title_transfer,0,65,No
+6400,South West,0,80,99,title_transfer,0,72,No
+6125,South West,4,160,94,title_transfer,0,72,No
+4263,South West,5,156,87,title_transfer,0,68,No
+4800,South West,0,36,94,seller_financed,0,80,No
+4124,South West,0,97,97,title_transfer,0,81,No
+5245,South West,0,36,98,title_transfer,0,72,No
+4745,South West,0,40,100,title_transfer,0,86,No
+6397,South West,0,80,96,title_transfer,0,75,No
+6250,South West,0,80,99,title_transfer,0,81,No
+4605,South West,0,80,86,title_transfer,0,63,No
+4298,South West,0,80,94,seller_financed,0,76,No
+3955,South West,5,122,75,title_transfer,0,63,No
+4875,South West,0,4,100,title_transfer,0,70,No
+5370,South West,0,217,95,title_transfer,0,74,No
+7083,South West,0,154,95,title_transfer,0,70,No
+4844,South West,0,127,83,title_transfer,0,54,No
+5033,South West,0,317,90,title_transfer,0,67,No
+5519,South West,0,74,99,title_transfer,0,70,No
+6456,South West,0,80,99,title_transfer,0,83,No
+3810,South West,0,160,92,title_transfer,24,75,Yes
+4731,South West,0,76,95,title_transfer,0,66,No
+4369,South West,0,153,90,title_transfer,17,69,Yes
+5615,South West,0,80,99,title_transfer,0,68,No
+4259,South West,0,153,81,title_transfer,0,60,No
+6351,South West,8,76,84,title_transfer,0,70,No
+4798,South West,0,80,90,title_transfer,0,72,No
+5894,South West,3,160,94,title_transfer,0,73,No
+5073,South West,0,75,91,title_transfer,0,79,No
+7898,South West,0,74,99,title_transfer,0,76,No
+8028,South West,0,154,97,title_transfer,0,65,No
+7835,South West,0,97,98,title_transfer,0,68,No
+6634,South West,0,99,95,title_transfer,0,74,No
+4635,South West,0,75,93,seller_financed,0,84,No
+5434,South West,0,78,99,title_transfer,0,76,No
+6043,South West,0,65,98,title_transfer,0,83,No
+5903,South West,0,243,98,title_transfer,0,78,No
+4202,South West,0,83,89,seller_financed,0,71,No
+5306,South West,0,79,96,title_transfer,0,70,No
+4588,South West,0,151,94,title_transfer,0,65,No
+4463,South West,0,206,92,seller_financed,1,65,Yes
+6441,South West,0,40,95,title_transfer,0,70,No
+6441,South West,0,40,98,title_transfer,0,78,No
+6504,South West,0,80,98,title_transfer,0,77,No
+1625,Northwest,0,80,75,seller_financed,0,59,No
+2500,Northwest,0,240,95,title_transfer,0,62,No
+2605,Northwest,4,200,92,title_transfer,0,68,No
+2941,Northwest,0,112,94,title_transfer,0,69,No
+2570,Northwest,0,392,95,title_transfer,0,62,No
+1383,Northwest,0,311,94,title_transfer,0,66,No
+2109,Northwest,0,175,94,title_transfer,0,54,No
+2752,Northwest,0,279,96,title_transfer,0,63,No
+1838,Northwest,3,280,78,title_transfer,0,61,No
+1415,Northwest,4,300,91,title_transfer,0,48,No
+3187,Northwest,8,160,94,title_transfer,0,62,No
+3597,Northwest,0,160,98,title_transfer,0,63,No
+1038,Northwest,0,45,98,title_transfer,98,52,Yes
+1745,Northwest,0,44,98,title_transfer,98,66,Yes
+1943,Northwest,0,291,70,title_transfer,0,63,No
+2376,Northwest,0,170,95,title_transfer,0,63,No
+2548,Northwest,0,160,95,title_transfer,0,60,No
+3757,South West,0,1217,94,title_transfer,2,64,Yes
+2494,South West,0,156,65,title_transfer,0,67,No
+3500,South West,0,91,99,title_transfer,0,63,No
+4295,South West,0,239,95,title_transfer,0,72,No
+4195,South West,0,153,94,title_transfer,0,72,No
+1658,South West,0,37,16,title_transfer,0,65,No
+2751,South West,0,138,97,title_transfer,0,65,No
+2577,South West,0,217,61,seller_financed,9,66,Yes
+3792,South West,0,160,95,title_transfer,0,65,No
+4500,South West,0,75,96,title_transfer,0,70,No
+3260,South West,0,39,87,seller_financed,0,69,No
+4808,South West,6,100,96,title_transfer,0,71,No
+4808,South West,6,100,96,title_transfer,0,71,No
+5061,South West,0,57,96,title_transfer,0,72,No
+3792,South West,0,80,90,title_transfer,0,63,No
+4843,South West,0,98,93,title_transfer,0,71,No
+4600,South West,0,160,92,title_transfer,0,67,No
+5830,South West,0,318,95,seller_financed,0,66,No
+4202,South West,0,119,96,title_transfer,0,72,No
+4700,South West,0,160,99,title_transfer,0,70,No
+4594,South West,0,61,97,seller_financed,0,70,No
+4906,South West,0,58,98,seller_financed,0,73,No
+4821,South West,4,120,97,title_transfer,0,70,No
+4138,South West,0,149,97,title_transfer,0,65,No
+3036,South West,0,80,96,seller_financed,0,68,No
+4207,South West,0,32,88,title_transfer,0,78,No
+5312,South West,0,160,98,title_transfer,0,73,No
+4173,South West,0,106,93,title_transfer,0,70,No
+1656,South West,0,114,67,title_transfer,0,48,No
+4450,South West,0,200,96,title_transfer,0,71,No
+4694,South West,0,208,96,title_transfer,0,69,No
+4521,South West,0,116,100,title_transfer,2,67,Yes
+5011,South West,0,61,97,title_transfer,0,65,No
+4985,South West,0,65,92,title_transfer,0,70,No
+5081,South West,0,80,96,title_transfer,0,51,No
+4694,South West,0,80,94,seller_financed,0,60,No
+2965,South West,0,656,71,title_transfer,0,61,No
+3274,South West,0,160,97,title_transfer,0,48,No
+4779,South West,0,142,94,title_transfer,0,74,No
+2916,South West,0,134,84,seller_financed,0,45,No
+4192,South West,0,160,96,title_transfer,0,62,No
+4798,South West,0,80,95,title_transfer,0,70,No
+4820,South West,0,160,97,title_transfer,0,72,No
+5365,South West,0,153,99,title_transfer,0,70,No
+4921,South West,0,72,94,title_transfer,0,69,No
+5645,South West,0,107,98,title_transfer,0,66,No
+3654,South West,0,89,98,title_transfer,0,51,No
+5740,South West,2,154,93,title_transfer,0,73,No
+5730,South West,0,80,96,title_transfer,0,70,No
+4884,South West,0,80,92,title_transfer,0,62,No
+4269,South West,0,155,96,title_transfer,0,68,No
+5214,South West,0,160,96,title_transfer,0,69,No
+5970,South West,15,120,93,title_transfer,0,73,No
+5310,South West,0,147,95,title_transfer,0,54,No
+4878,South West,0,80,96,title_transfer,0,69,No
+4948,South West,0,71,94,title_transfer,0,68,No
+5559,Central,0,144,96,title_transfer,0,71,No
+1406,Central,0,32,41,title_transfer,0,74,No
+5891,Central,0,80,96,title_transfer,0,80,No
+5399,Central,0,80,99,title_transfer,0,72,No
+5619,Central,0,115,97,title_transfer,0,62,No
+5082,Central,0,40,100,title_transfer,0,59,No
+5806,Central,0,40,98,title_transfer,0,60,No
+4442,Central,7,160,95,title_transfer,0,69,No
+5215,Central,0,80,85,title_transfer,10,75,Yes
+5041,Central,0,80,100,title_transfer,0,78,No
+3929,Central,0,204,77,title_transfer,0,59,No
+5267,Central,0,237,97,seller_financed,0,70,No
+5797,Central,0,157,97,title_transfer,0,64,No
+5844,Central,0,189,98,title_transfer,0,70,No
+4074,Central,0,33,97,title_transfer,0,70,No
+4925,Central,0,65,97,title_transfer,0,71,No
+4102,Central,0,160,96,title_transfer,0,66,No
+4146,Central,0,40,98,title_transfer,0,70,No
+4386,Central,4,80,91,title_transfer,0,74,No
+5329,Central,0,77,97,title_transfer,0,75,No
+5407,Central,0,160,98,title_transfer,0,66,No
+5610,Central,0,75,99,title_transfer,0,67,No
+5560,Central,0,75,92,title_transfer,0,67,No
+3000,South Central,0,80,62,title_transfer,0,95,No
+3167,South Central,0,48,92,title_transfer,0,74,No
+3296,South Central,0,98,82,title_transfer,4,71,Yes
+5200,South Central,0,30,100,title_transfer,0,69,No
+2881,South Central,0,140,65,title_transfer,0,74,No
+4625,South Central,0,80,91,title_transfer,0,89,No
+3745,South Central,0,47,87,title_transfer,0,68,No
+4021,South Central,0,48,77,title_transfer,0,72,No
+14000,South Central,54,35,97,title_transfer,0,71,No
+3487,South Central,0,105,62,seller_financed,0,65,No
+4472,South Central,0,52,88,title_transfer,0,78,No
+6600,South Central,0,38,89,title_transfer,0,86,No
+5594,South Central,0,143,98,title_transfer,0,84,No
+5284,South Central,0,149,92,title_transfer,0,83,No
+6432,South Central,0,25,92,title_transfer,0,85,No
+2913,South Central,0,15,47,title_transfer,0,55,No
+5158,South Central,0,67,90,title_transfer,0,86,No
+3929,South Central,0,70,93,title_transfer,51,86,Yes
+4832,South Central,0,40,85,title_transfer,0,75,No
+4920,South Central,0,25,96,title_transfer,0,81,No
+4773,South Central,0,49,94,title_transfer,31,86,Yes
+4672,South Central,0,36,94,title_transfer,0,86,No
+5345,South Central,0,116,93,title_transfer,0,80,No
+3950,South Central,0,40,98,title_transfer,0,81,No
+3463,South West,0,128,84,title_transfer,0,76,No
+3450,South West,0,57,72,title_transfer,0,72,No
+4900,South West,0,160,91,title_transfer,0,95,No
+4000,South West,1,160,85,seller_financed,0,77,No
+2708,South West,0,158,69,title_transfer,0,81,No
+5500,South West,0,160,98,title_transfer,0,95,No
+6791,South West,0,69,100,title_transfer,0,90,No
+6757,South West,0,29,86,title_transfer,0,97,No
+2987,South West,0,89,82,title_transfer,0,76,No
+7061,South West,0,57,96,seller_financed,0,95,No
+4905,South West,0,162,92,title_transfer,0,85,No
+5884,South West,0,80,98,title_transfer,0,95,No
+2822,South West,0,84,39,title_transfer,0,66,No
+4885,South West,0,132,96,title_transfer,0,81,No
+7485,South West,0,116,86,title_transfer,0,93,No
+8867,South West,0,155,97,title_transfer,0,95,No
+8260,South West,0,120,89,title_transfer,0,90,No
+7114,South West,0,150,97,title_transfer,0,95,No
+6273,South West,0,53,72,title_transfer,0,95,No
+6273,South West,0,53,81,title_transfer,0,94,No
+3838,South West,0,4,100,title_transfer,0,94,No
+6015,South West,0,153,88,title_transfer,0,85,No
+5479,South West,0,156,87,title_transfer,0,93,No
+5630,South West,0,160,94,title_transfer,0,86,No
+6653,South West,0,160,89,title_transfer,0,86,No
+5376,South West,0,155,88,title_transfer,0,93,No
+4682,South West,0,27,96,seller_financed,0,95,No
+5102,South West,0,155,82,title_transfer,0,89,No
+7469,South West,19,40,82,title_transfer,0,96,No
+6565,South West,0,80,89,title_transfer,0,88,No
+8130,South West,0,160,98,title_transfer,0,94,No
+5470,Central,19,137,94,title_transfer,0,72,No
+4273,Central,0,56,98,title_transfer,0,72,No
+4500,Central,0,20,100,title_transfer,0,67,No
+4749,Central,0,40,98,seller_financed,0,70,No
+4325,Central,0,100,99,title_transfer,0,67,No
+4408,Central,0,80,96,seller_financed,0,72,No
+4460,Central,0,80,100,title_transfer,0,68,No
+5160,Central,0,48,96,title_transfer,0,73,No
+3500,Central,0,40,85,title_transfer,0,65,No
+4930,Central,0,71,93,seller_financed,0,65,No
+4352,Central,0,108,96,title_transfer,0,56,No
+4855,Central,0,270,95,seller_financed,0,65,No
+4779,Central,0,40,100,seller_financed,0,70,No
+5500,Central,0,40,98,title_transfer,0,69,No
+5666,Central,0,69,88,title_transfer,0,65,No
+5371,Central,0,46,80,title_transfer,0,68,No
+5782,Central,25,114,84,seller_financed,6,65,Yes
+5777,Central,0,69,97,title_transfer,0,66,No
+5006,Central,0,55,82,seller_financed,0,74,No
+5018,Central,2,175,89,title_transfer,0,64,No
+5041,Central,0,40,95,title_transfer,0,69,No
+5041,Central,0,60,97,title_transfer,0,65,No
+5175,Central,0,45,96,title_transfer,0,64,No
+5680,Central,12,355,93,title_transfer,0,67,No
+5051,Central,0,58,88,title_transfer,0,66,No
+5082,Central,0,80,99,title_transfer,0,68,No
+6577,Central,16,170,91,seller_financed,0,68,No
+4782,Central,0,47,96,title_transfer,0,69,No
+3772,South Central,0,114,92,title_transfer,0,68,No
+3850,South Central,0,65,92,title_transfer,0,86,No
+4133,South Central,0,150,99,seller_financed,0,9,No
+5176,South Central,0,34,94,title_transfer,0,78,No
+4500,South Central,0,40,98,title_transfer,0,62,No
+4015,South Central,0,37,97,title_transfer,0,72,No
+2500,South Central,0,32,50,title_transfer,0,32,No
+2356,South Central,8,80,54,title_transfer,0,19,No
+4500,South Central,0,84,99,title_transfer,0,67,No
+4499,South Central,0,181,89,title_transfer,0,85,No
+4273,South Central,0,113,81,title_transfer,0,52,No
+5000,South Central,0,66,85,title_transfer,0,49,No
+5200,South Central,0,40,95,title_transfer,0,48,No
+3509,South Central,0,57,98,seller_financed,0,61,No
+3904,South Central,0,114,80,seller_financed,0,65,No
+4716,South Central,0,75,97,seller_financed,0,95,No
+3594,South Central,0,157,71,title_transfer,0,10,No
+3620,South Central,6,149,88,seller_financed,0,29,No
+4882,South Central,0,75,85,title_transfer,0,43,No
+4135,South Central,0,150,91,title_transfer,0,1,No
+5447,South Central,0,65,95,title_transfer,0,65,No
+5447,South Central,0,60,72,title_transfer,0,42,No
+5086,South Central,0,110,95,title_transfer,0,3,No
+5329,South Central,0,106,95,title_transfer,0,90,No
+5588,South Central,11,142,96,seller_financed,0,30,No
+3528,South Central,0,40,55,title_transfer,0,75,No
+6030,South Central,0,24,96,title_transfer,0,82,No
+5222,South Central,0,75,97,title_transfer,0,35,No
+5513,West Central,16,160,91,title_transfer,0,66,No
+3563,West Central,0,76,97,title_transfer,0,63,No
+3512,West Central,0,188,95,title_transfer,7,59,Yes
+4570,West Central,0,150,97,title_transfer,0,66,No
+4638,West Central,0,200,95,title_transfer,4,61,Yes
+3889,West Central,0,280,94,title_transfer,4,54,Yes
+3428,West Central,0,160,98,title_transfer,0,53,No
+1815,West Central,0,120,95,title_transfer,95,39,Yes
+3151,West Central,0,160,92,title_transfer,28,52,Yes
+2672,West Central,0,320,81,title_transfer,0,51,No
+3024,West Central,0,80,90,title_transfer,0,53,No
+3327,West Central,0,100,95,title_transfer,0,57,No
+2810,West Central,0,160,97,title_transfer,0,50,No
+4715,West Central,0,319,94,title_transfer,0,65,No
+2927,West Central,0,320,87,seller_financed,7,43,Yes
+3513,West Central,0,37,95,title_transfer,0,50,No
+5022,South Central,0,62,100,title_transfer,0,78,No
+2217,South Central,0,57,100,title_transfer,9,40,Yes
+5190,South Central,14,79,99,title_transfer,0,82,No
+4393,South Central,0,55,100,title_transfer,0,72,No
+5000,South Central,0,40,100,title_transfer,0,86,No
+5538,South Central,0,65,100,title_transfer,34,74,Yes
+4697,South Central,0,70,100,title_transfer,0,70,No
+4713,South Central,0,235,100,title_transfer,0,81,No
+5819,South Central,0,156,100,title_transfer,0,83,No
+5106,South Central,5,160,99,title_transfer,0,78,No
+4203,South Central,0,120,89,title_transfer,0,63,No
+5071,South Central,0,203,100,title_transfer,0,82,No
+3962,South Central,0,275,100,title_transfer,0,83,No
+4834,South Central,0,80,100,title_transfer,0,59,No
+6238,South Central,0,77,100,title_transfer,0,80,No
+9449,South Central,0,27,100,title_transfer,0,67,No
+4110,South Central,0,163,93,title_transfer,0,76,No
+4200,South Central,0,40,98,title_transfer,0,79,No
+2409,South Central,0,11,82,title_transfer,0,53,No
+4000,South Central,0,80,98,title_transfer,0,75,No
+2438,South Central,0,160,96,title_transfer,0,47,No
+4775,South Central,0,76,99,title_transfer,0,78,No
+4813,South Central,0,160,98,seller_financed,0,79,No
+5650,South Central,0,72,96,title_transfer,0,80,No
+5524,South Central,0,80,96,title_transfer,0,79,No
+5418,South Central,0,78,94,title_transfer,0,76,No
+5029,South Central,8,111,97,title_transfer,0,76,No
+5018,South Central,0,104,91,title_transfer,0,74,No
+5503,South Central,0,73,100,title_transfer,0,75,No
+3600,South Central,0,55,95,title_transfer,0,78,No
+3506,South Central,0,142,97,title_transfer,0,50,No
+3906,South Central,0,233,94,title_transfer,0,62,No
+4827,South Central,0,80,95,title_transfer,0,76,No
+3636,South Central,0,121,74,title_transfer,0,76,No
+4457,South Central,0,40,95,title_transfer,0,78,No
+6783,South Central,0,40,100,title_transfer,0,87,No
+6097,South Central,0,120,97,title_transfer,0,79,No
+4101,South Central,5,168,93,title_transfer,0,55,No
+6526,South Central,0,109,100,title_transfer,0,74,No
+6108,South Central,0,71,96,title_transfer,0,78,No
+2312,West Central,0,160,96,title_transfer,0,72,No
+2625,West Central,0,160,98,title_transfer,0,67,No
+1772,West Central,0,202,89,seller_financed,23,66,Yes
+3434,West Central,0,99,98,title_transfer,0,71,No
+3400,West Central,0,220,86,title_transfer,0,68,No
+3000,West Central,0,40,98,title_transfer,0,70,No
+2875,West Central,0,80,96,title_transfer,0,65,No
+3000,West Central,0,320,98,title_transfer,0,53,No
+2216,West Central,0,282,95,title_transfer,0,63,No
+2909,West Central,0,480,92,title_transfer,0,72,No
+2447,West Central,0,119,96,title_transfer,0,40,No
+3400,West Central,0,160,98,title_transfer,0,73,No
+2842,West Central,0,120,94,title_transfer,0,62,No
+2862,West Central,0,91,96,title_transfer,0,55,No
+3673,West Central,0,120,98,title_transfer,7,64,Yes
+3710,West Central,1,342,92,title_transfer,0,56,No
+3866,West Central,0,288,99,title_transfer,0,67,No
+3879,West Central,0,80,99,title_transfer,0,65,No
+4000,West Central,2,240,95,title_transfer,0,64,No
+3771,West Central,0,26,100,title_transfer,0,65,No
+3153,West Central,0,75,99,title_transfer,0,61,No
+4604,West Central,0,107,100,seller_financed,0,67,No
+4091,West Central,0,78,97,title_transfer,0,62,No
+2767,West Central,0,75,97,title_transfer,17,64,Yes
+2684,West Central,0,76,64,title_transfer,0,61,No
+3964,West Central,0,75,94,title_transfer,0,65,No
+2758,West Central,0,390,93,seller_financed,0,64,No
+4407,West Central,0,80,94,title_transfer,0,62,No
+4372,West Central,0,146,97,title_transfer,0,67,No
+1888,West Central,0,42,56,title_transfer,0,61,No
+4171,West Central,0,84,92,title_transfer,0,66,No
+3440,West Central,0,80,95,seller_financed,0,64,No
+4411,West Central,0,70,95,title_transfer,0,65,No
+5046,West Central,0,40,98,title_transfer,0,56,No
+5041,West Central,0,121,98,title_transfer,0,64,No
+4033,West Central,0,80,99,title_transfer,0,52,No
+5071,West Central,0,126,97,title_transfer,1,59,Yes
+4282,West Central,0,113,93,title_transfer,0,62,No
+4393,West Central,1,356,98,title_transfer,0,64,No
+5041,West Central,0,80,98,title_transfer,0,59,No
+5718,West Central,0,122,96,title_transfer,0,64,No
+4445,West Central,0,77,95,title_transfer,9,65,Yes
+4560,West Central,0,156,96,title_transfer,0,64,No
+4976,West Central,0,156,98,title_transfer,0,63,No
+4691,West Central,0,56,91,title_transfer,0,64,No
+6896,West Central,39,35,66,title_transfer,0,60,No
+4748,West Central,0,75,95,title_transfer,0,66,No
+4839,West Central,0,80,99,title_transfer,0,63,No
+4830,West Central,0,82,91,title_transfer,0,62,No
+4978,West Central,0,263,95,title_transfer,1,66,Yes
+5532,West Central,1,160,95,title_transfer,0,66,No
+4047,West Central,0,160,96,title_transfer,0,62,No
+3727,West Central,0,66,95,title_transfer,8,62,Yes
+4445,West Central,4,279,96,title_transfer,0,64,No
+3388,West Central,0,159,96,title_transfer,8,59,Yes
+3820,West Central,0,58,97,title_transfer,0,65,No
+4916,West Central,0,63,98,title_transfer,0,65,No
